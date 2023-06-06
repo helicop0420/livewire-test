@@ -10,8 +10,8 @@
 
 
 ### Features
-|  |  |
-| ------ | ----------- |
+|  |
+| --- |
 | A web page that shows 5 random Kayne West quotes with Livewire |
 | The quotes should be refreshed automatically every 60 seconds |
 | There should be a button to refresh the quotes |
