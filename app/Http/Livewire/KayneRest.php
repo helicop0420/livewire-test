@@ -12,7 +12,7 @@ class KayneRest extends Component
 
     public function render()
     {
-        // $this->updateSentence();
+        $this->updateSentence();
         return view('livewire.kayne-rest');
     }
 
